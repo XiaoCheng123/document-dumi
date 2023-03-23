@@ -31,4 +31,4 @@ jobs:
       uses: JamesIves/github-pages-deploy-action@v4
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        FOLDER: build
+        FOLDER: docs-dist
