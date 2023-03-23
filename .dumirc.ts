@@ -5,6 +5,6 @@ export default defineConfig({
   themeConfig: {
     name: 'xiaocheng',
   },
-  publicPath: process.env.NODE_ENV === 'production' ? '/Hell-World/' : '/',
-  // runtimePublicPath: {},
+  publicPath: process.env.NODE_ENV === 'production' ? '/document-dumi/' : '/',
+  base: process.env.NODE_ENV === 'production' ? '/document-dumi/' : '/',
 });
