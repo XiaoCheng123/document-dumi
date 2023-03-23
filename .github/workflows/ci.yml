@@ -3,8 +3,6 @@ on:
   push:
     branches:
       - master
-runs:
-  using: 'node16'
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
