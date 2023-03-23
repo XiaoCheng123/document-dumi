@@ -13,7 +13,7 @@ jobs:
         persist-credentials: false
     - name: Install and Build
       run: |
-        npm cache clean
+        npm cache clean --force
         npm install
         npm docs:build
     - name: Deploy
