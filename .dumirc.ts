@@ -3,6 +3,7 @@ import { defineConfig } from 'dumi';
 export default defineConfig({
   outputPath: 'docs-dist',
   themeConfig: {
-    name: 'npm',
+    name: 'xiaocheng',
   },
+  base: '/Hell-World'
 });
