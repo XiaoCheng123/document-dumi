@@ -31,4 +31,3 @@ jobs:
       uses: JamesIves/github-pages-deploy-action@v4
       with:
         folder: docs-dist
-        token: ${{ secrets.ACCESS_TOKEN }}
