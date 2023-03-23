@@ -45,8 +45,7 @@ jobs:
     - name: npm install, build, and test
       run: |
         npm install
-        npm run docs:build
-        rm ./docs-dist/~demos -rf
+        npm run build
 
     - name: Upload artifact for deployment job
       uses: actions/upload-artifact@v3
