@@ -1,22 +1,10 @@
 ---
 hero:
-  title: library
-  description: A react library developed with dumi
+  title: 小成的博客
+  description: 在这里分享学到的知识给你
   actions:
-    - text: Hello
-      link: /
-    - text: World
-      link: /
+    - text: 博客首页
+      link: https://xiaocheng123.github.io/
 features:
-  - title: Hello
-    emoji: 💎
-    description: Put hello description here
-  - title: World
-    emoji: 🌈
-    description: Put world description here
-  - title: '!'
-    emoji: 🚀
-    description: Put ! description here
 ---
 
-npm
