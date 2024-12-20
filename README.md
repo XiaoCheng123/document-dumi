@@ -1,17 +1,6 @@
-# npm
+## Link
 
-[![NPM version](https://img.shields.io/npm/v/npm.svg?style=flat)](https://npmjs.org/package/npm)
-[![NPM downloads](http://img.shields.io/npm/dm/npm.svg?style=flat)](https://npmjs.org/package/npm)
-
-A react library developed with dumi
-
-## Usage
-
-TODO
-
-## Options
-
-TODO
+https://xiaocheng123.github.io/document-dumi
 
 ## Development
 
@@ -35,6 +24,6 @@ $ npm run docs:build
 $ npm run doctor
 ```
 
-## LICENSE
+## publish
 
-MIT
+master push auto buid
